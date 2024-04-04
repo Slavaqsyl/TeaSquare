@@ -1,0 +1,23 @@
+{
+  "name": "teasquare",
+  "version": "1.0.0",
+  "description": "Taking a square from numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Slavaqsyl/TeaSquare.git"
+  },
+  "dependencies": {
+    "teamustwork": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slavaqsyl/TeaSquare/issues"
+  },
+  "homepage": "https://github.com/Slavaqsyl/TeaSquare#readme"
+}
